@@ -99,6 +99,11 @@ body {
     padding-inline: 2rem;
 }
 
+.main-title {
+    font-size: 5rem;
+    padding-bottom: 1rem;
+}
+
 .stacked {
     display: grid;
 }
